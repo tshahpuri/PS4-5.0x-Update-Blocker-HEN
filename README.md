@@ -1,4 +1,4 @@
-# PS4-4.55-Update-Blocker-HEN
+# PS4-5.0x-Update-Blocker-HEN
 
 This Payload contains Update Blocker, and HEN in 1!
 
